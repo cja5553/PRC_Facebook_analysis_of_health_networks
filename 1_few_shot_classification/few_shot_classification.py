@@ -17,7 +17,7 @@ import random
 
 
 def instantiate_pipeline_qwen(
-    access_token="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",
+    access_token="<Input access token>",
     model_id="Qwen/Qwen2.5-32B-Instruct-GPTQ-Int4"
 ):
     set_seed(42)
